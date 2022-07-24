@@ -11,8 +11,6 @@
 * flutter_vector_icons
 * carousel_slider
 * shimmer
-* sqflite
-* path_provider 
 * flutter_svg
 
 ## How to run
